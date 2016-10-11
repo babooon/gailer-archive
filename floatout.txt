@@ -1,0 +1,6 @@
+Summe sum: 0.0
+Quadratsumme sumSQ: 10000.0
+Mittelwert: avg0.0
+Mittelwertquadrat avgSQ: 100.0
+Varianz var: 100.0
+Standardabweichung sd: 10.0

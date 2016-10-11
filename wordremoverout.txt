@@ -1,0 +1,253 @@
+8 30
+Exercise 9 30
+5 10 30
+— 14 30
+Stop 18 30
+Word 25 30
+Remover 5 426
+Write 6 426
+13 426
+program 17 426
+that 22 426
+reads 24 426
+in 25 426
+29 426
+file 31 426
+of 36 426
+text, 43 426
+perhaps 46 426
+50 426
+text 52 426
+of 53 426
+59 426
+novel. 62 426
+The 69 426
+program 75 426
+copies 78 426
+82 426
+same 86 426
+text 88 426
+to 90 426
+an 96 426
+output 101 426
+file, 107 426
+except 111 426
+that 114 426
+all 117 426
+124 426
+useless 129 426
+words 133 426
+such 135 426
+as 141 426
+"the", 145 426
+"a", 148 426
+and 152 426
+"an" 155 426
+are 163 426
+removed. 170 426
+(Decide 172 426
+on 176 426
+what 181 426
+other 186 426
+words 189 426
+you 193 426
+with 195 426
+to 202 426
+remove. 205 426
+The 209 426
+list 211 426
+of 216 426
+words 223 426
+removed 225 426
+is 231 426
+called 232 426
+236 426
+stop 242 426
+list.) 244 426
+Do 248 426
+this 250 426
+by 257 426
+reading 260 426
+264 426
+text 268 426
+file 273 426
+token 275 426
+by 280 426
+token 285 426
+using 294 426
+hasNext() 297 426
+and 304 426
+next(), 307 426
+but 311 426
+only 318 426
+writing 321 426
+out 327 426
+tokens 330 426
+not 332 426
+on 335 426
+339 426
+stop 344 426
+list. 6 60
+Prompt 9 60
+13 60
+user 16 60
+for 19 60
+24 60
+names 26 60
+of 29 60
+34 60
+input 37 60
+and 43 60
+output 49 60
+files. 6 144
+Fairly 11 144
+Easy: 14 144
+The 20 144
+output 24 144
+file 28 144
+will 32 144
+have 36 144
+only 37 144
+N 43 144
+tokens 46 144
+per 51 144
+line. 53 144
+Do 57 144
+this 59 144
+by 67 144
+counting 73 144
+tokens 75 144
+as 78 144
+you 84 144
+output 89 144
+them. 90 144
+N 94 144
+will 96 144
+be 105 144
+something 109 144
+like 111 144
+10 113 144
+or 116 144
+12. 8 285
+Improved 16 285
+Program: 24 285
+Preserve 27 285
+31 285
+line 40 285
+structure 42 285
+of 45 285
+50 285
+input 55 285
+file. 57 285
+Do 61 285
+this 63 285
+by 70 285
+reading 74 285
+each 78 285
+line 83 285
+using 93 285
+nextLine() 96 285
+and 100 285
+then 108 285
+creating 109 285
+112 285
+new 119 285
+Scanner 122 285
+for 126 285
+that 131 285
+line. 136 285
+(Look 138 285
+at 141 285
+148 285
+on-line 161 285
+documentation 164 285
+for 173 285
+Scanner.) 177 285
+With 181 285
+each 187 285
+line's 195 285
+Scanner, 198 285
+use 207 285
+hasNext() 210 285
+and 216 285
+next() 218 285
+to 222 285
+scan 229 285
+through 232 285
+its 239 285
+tokens. 7 345
+Harder: 12 345
+Write 15 345
+out 17 345
+no 21 345
+more 25 345
+than 26 345
+N 36 345
+characters 39 345
+per 44 345
+line. 45 345
+N 49 345
+will 51 345
+be 60 345
+something 64 345
+like 67 345
+50. 69 345
+Do 73 345
+this 75 345
+by 82 345
+keeping 87 345
+count 89 345
+of 92 345
+98 345
+number 100 345
+of 110 345
+characters 117 345
+written 120 345
+out 123 345
+per 128 345
+line. 131 345
+The 139 345
+length() 145 345
+method 147 345
+of 153 345
+String 157 345
+will 159 345
+be 166 345
+useful. 168 345
+If 169 345
+X 179 345
+characters 182 345
+has 189 345
+already 193 345
+been 200 345
+written 202 345
+to 205 345
+212 345
+current 217 345
+line, 220 345
+and 222 345
+if 223 345
+X 227 345
+plus 230 345
+236 345
+length 238 345
+of 241 345
+248 345
+current 253 345
+token 260 345
+exceeds 262 345
+N, 266 345
+then 271 345
+start 272 345
+275 345
+new 280 345
+line. 5 40
+Click 9 40
+here 11 40
+to 13 40
+go 17 40
+back 19 40
+to 22 40
+26 40
+main 31 40
+menu. 
